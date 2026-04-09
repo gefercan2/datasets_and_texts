@@ -23,4 +23,5 @@ https://openaccess-api.clevelandart.org/<br>
 https://collection.cooperhewitt.org/api/<br>
 https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings<br>
 https://www.artnome.com/art-data<br>
+https://theaisanctuary.org/datasets/
 
