@@ -15,17 +15,17 @@ https://voyant-tools.org/ <br><br>
 
 Files are in csv or json format for use in datavisualizations, usually the json are extracted from the csv so the later are the primary source
 you can check here:<br>
-https://github.com/metmuseum/openaccess<br>
-https://github.com/art-institute-of-chicago/api-data<br>
-https://github.com/artsy/the-art-genome-project<br>
-https://dahd.hcommons.org/open-data-collections/<br>
-https://openaccess-api.clevelandart.org/<br>
-https://collection.cooperhewitt.org/api/<br>
-https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings<br>
-https://www.artnome.com/art-data<br>
-https://theaisanctuary.org/datasets/
-https://dh-tech.github.io/awesome-digital-humanities/
-https://libereurope.github.io/ds-topic-guides/ai-ml.html
-https://libguides.ucc.ie/DigitalArtsandHumanities/freewebresources
+https://github.com/metmuseum/openaccess <br>
+https://github.com/art-institute-of-chicago/api-data <br>
+https://github.com/artsy/the-art-genome-project <br>
+https://dahd.hcommons.org/open-data-collections/ <br>
+https://openaccess-api.clevelandart.org/ <br>
+https://collection.cooperhewitt.org/api/ <br>
+https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings <br>
+https://www.artnome.com/art-data <br>
+https://theaisanctuary.org/datasets/ <br>
+https://dh-tech.github.io/awesome-digital-humanities/ <br>
+https://libereurope.github.io/ds-topic-guides/ai-ml.html <br>
+https://libguides.ucc.ie/DigitalArtsandHumanities/freewebresources <br>
 
 
