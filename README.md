@@ -25,7 +25,7 @@ https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings <br>
 https://www.artnome.com/art-data <br>
 https://theaisanctuary.org/datasets/ <br>
 
-other links:
+other links: <br>
 https://dh-tech.github.io/awesome-digital-humanities/ <br>
 https://libereurope.github.io/ds-topic-guides/ai-ml.html <br>
 https://libguides.ucc.ie/DigitalArtsandHumanities/freewebresources <br> 
