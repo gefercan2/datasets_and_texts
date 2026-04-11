@@ -32,4 +32,7 @@ https://libguides.ucc.ie/DigitalArtsandHumanities/freewebresources <br>
 https://www.choice360.org/libtech-insight/ai-tools-for-academic-libraries-ai-programming-and-coding-tools/ <br>
 http://zenodo.org/records/15069064  and   https://mbzuai.ac.ae/news/what-llms-get-wrong-about-culture-and-how-to-fix-them-two-studies-from-naacl/ <br>
 
+refeence of work with the met database: <br>
+https://github.com/trevorfiez/The-Metropolitan-Museum-of-Art-Image-Downloader?tab=readme-ov-file 
+
 
