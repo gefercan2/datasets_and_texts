@@ -1,7 +1,7 @@
 Stock exchange,MIC,Region,City,Market cap (USD tn),Monthly trade volume (USD bn),Time zone,Δ ,DST,Open hours (local time) Open, Open hours (local time) Close , Open hours (local time) Lunch  ,UTC(without DST) Open,UTC(without DST) Close
 New York Stock Exchange ,XNYS, United States,New York City ,44.7[4] ,2.685,EST/EDT ,−5:00 ,Mar–Nov,09:30 ,16:00 ,No,14:30,21:00
-Nasdaq (US),XNYS, United States,New York City, 42.2[5],2.727,EST/EDT ,+8:00,na,09:30 ,16:00 ,11:30–13:00,14:30,21:00
-Shanghai Stock Exchange,XSHG,China,Shanghai,9.72[6] ,1.906,CST ,,na,09:30 ,15:00 ,11:30–13:00,01:30 ,07:00
+Nasdaq (US),XNYS, United States,New York City, 42.2[5],2.727,EST/EDT ,−5:00 ,na,09:30 ,16:00 ,11:30–13:00,14:30,21:00
+Shanghai Stock Exchange,XSHG,China,Shanghai,9.72[6] ,1.906,CST ,+8:00,na,09:30 ,15:00 ,11:30–13:00,01:30 ,07:00
 Japan Exchange Group (Tokyo Stock Exchange),XJPX (TYO),Japan,Tokyo,7.95[7],652,JST,+9:00 ,na,09:00 ,15:00 ,11:30–12:30 ,00:00 ,06:00
 Euronext,XAMS, Europe ,Amsterdam,7.45[8] ,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30
 Euronext,XBRU, Europe ,Brussels,7.45[8] ,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30
