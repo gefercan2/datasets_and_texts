@@ -24,6 +24,7 @@ https://collection.cooperhewitt.org/api/ <br>
 https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings <br>
 https://www.artnome.com/art-data <br>
 https://theaisanctuary.org/datasets/ <br>
+https://data.dubai/en/data-and-statistics <br>
 
 other links: <br>
 https://dh-tech.github.io/awesome-digital-humanities/ <br>
