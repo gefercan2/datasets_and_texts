@@ -25,6 +25,7 @@ https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings <br>
 https://www.artnome.com/art-data <br>
 https://theaisanctuary.org/datasets/ <br>
 https://data.dubai/en/data-and-statistics <br>
+https://www.wto.org/english/res_e/statis_e/world_trade_statistics_e.htm <br>
 
 other links: <br>
 https://dh-tech.github.io/awesome-digital-humanities/ <br>
