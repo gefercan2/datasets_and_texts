@@ -1,37 +1,37 @@
-Stock exchange,MIC,Region,City,Market cap (USD tn),Monthly trade volume (USD bn),Time zone,Δ ,DST,Open hours (local time) Open, Open hours (local time) Close , Open hours (local time) Lunch  ,UTC(without DST) Open,UTC(without DST) Close,Coordinates latitude,Coordinates longitude,Foundation date,Comment
-New York Stock Exchange ,XNYS, United States,New York City ,44.7,2685,EST/EDT ,−5:00 ,Mar–Nov,09:30 ,16:00 ,No,14:30,21:00,40.7069,-74.0113,,[4] 
-Nasdaq (US),XNYS, United States,New York City,42.2,2727,EST/EDT ,−5:00 ,na,09:30 ,16:00 ,11:30–13:00,14:30,21:00,40.7069,-74.0113,,[5]
-Shanghai Stock Exchange,XSHG,China,Shanghai,9.72,1906,CST ,+8:00,na,09:30 ,15:00 ,11:30–13:00,01:30 ,07:00,31.2304,121.4737,,[6] 
-Japan Exchange Group (Tokyo Stock Exchange),XJPX (TYO),Japan,Tokyo,7.95,652,JST,+9:00 ,na,09:00 ,15:00 ,11:30–12:30 ,00:00 ,06:00,35.6812,139.7775,,[7]
-Euronext,XAMS, Europe ,Amsterdam,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,52.3676,4.9041,,[8] 
-Euronext,XBRU, Europe ,Brussels,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,50.8503,4.3517,,[8] 
-Euronext,XMSM, Europe ,Dublin,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,,,,[8] 
-Euronext,XLIS, Europe ,Lisbon,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,38.7223,9.1393,,[8] 
-Euronext,XMIL, Europe ,Milan,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,45.4642,9.19,,[8] 
-Euronext,XOSL, Europe ,Oslo,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,,,,[8] 
-Euronext,XPAR , Europe ,Paris ,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,48.8694,2.3417,,[9] 
-Shenzhen Stock Exchange ,XSHE , China ,Shenzhen ,6.66,2888,CST ,+8:00 ,na,09:30 ,15:00 ,11:30–13:00 ,01:30 ,07:00,22.5431,114.0579,,[10] 
-Hong Kong Stock Exchange ,XHKG , Hong Kong,Hong Kong ,6.2,762,HKT ,+8:00 ,na,09:30 ,16:00 ,12:00–13:00 ,01:30 ,08:00,22.2844,114.1595,,[11] 
-Bombay Stock Exchange ,XBOM ,India,Mumbai ,5.25,501,IST ,+5:30 ,na,09:15 ,15:30 ,na,03:45 ,10:00,18.93,72.8335,,[12] 
-National Stock Exchange ,XNSE ,India,Mumbai ,5.32,294,IST ,+5:30 ,na,09:15 ,15:30 ,na,03:45 ,10:00,18.93,72.8335,,[13] 
-Toronto Stock Exchange,XTSE , Canada ,Toronto ,4.6,206,EST/EDT ,−5:00 ,Mar–Nov ,16:00 ,na,14:30 ,21:00,na,25.0375,121.5272,,
-Taiwan Stock Exchange ,XTAI, Taiwan,Taipei ,4.13,222,NST (Taiwan) ,+8:00 ,na,13:30 ,01:00 ,05:30,na,na,43.6532,79.3832,,
-London Stock Exchange,XLON ,United Kingdom,London ,4.1,219,GMT/BST ,+0:00 ,Mar–Oct ,08:00 ,16:30 ,08:00 ,16:30,na,51.5151,-0.0998,,[14] 
-Korea Exchange,XKOS ,South Korea ,Seoul,3.7,204,KST ,+9:00 ,na,09:00 ,09:00 ,15:30 ,00:00 ,06:30,37.5665,126.978,,
-Korea Exchange,XKOS ,South Korea ,Busan ,3.7,204,KST ,+9:00 ,na,09:00 ,09:00 ,15:30 ,00:00 ,06:30,35.1796,129.0756,,
-German Stock Exchange (Deutsche Börse AG),XFRA ,Germany ,Frankfurt ,3.15,77,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,08:00 (Eurex) 08:00 (floor) 09:00 (Xetra) , 22:00 (Eurex) 20:00 (floor) 17:30 (Xetra) ,07:00 ,21:00,50.1153,8.6779,,
-Saudi Exchange ,XSAU , Saudi Arabia ,Riyadh ,2.55,32,AST ,+3:00 ,,10:00 ,15:00 ,07:00 ,12:00,na,24.6389,46.7172,,
-SIX Swiss Exchange ,XSWX ,  Switzerland ,Zürich ,1.97,54,CET/CEST ,+1:00 ,Mar–Oct ,08:00 ,17:30 ,07:00 ,16:30,na,47.3769,8.5417,,
-Australian Securities Exchange ,XASX , Australia ,Sydney ,1.89,91,AEST/AEDT ,+10:00 ,Oct–Apr ,10:00 ,16:00 ,00:00 ,06:00,na,33.8688,151.2093,,
-Nasdaq Nordic and Baltic Exchanges ,XCSE, Europe ,Copenhagen,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,55.6761,12.5683,,
-Nasdaq Nordic and Baltic Exchanges ,XSTO, Europe ,Stockholm,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,59.3293,18.0686,,
-Nasdaq Nordic and Baltic Exchanges ,XHEL, Europe ,Helsinki,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,60.17,24.93,,
-Nasdaq Nordic and Baltic Exchanges ,XTAL, Europe ,Tallinn,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,59.43,24.75,,
-Nasdaq Nordic and Baltic Exchanges ,XRIS, Europe ,Riga,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,56.95,24.1,,
-Nasdaq Nordic and Baltic Exchanges ,XLIT, Europe ,Vilnius,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,54.7,25.25,,
-Nasdaq Nordic and Baltic Exchanges ,XICE , Europe ,Reykjavík,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,64.15,21.94,,
-Johannesburg Stock Exchange ,XJSE , South Africa ,Johannesburg ,1.15,60,SAST ,+2:00 ,,09:00 ,16:50 ,No ,07:00 ,14:50,26.2041,28.0473,,
-B3 (stock exchange) ,BVMF ,Brazil ,São Paulo ,1.01[15] ,30,BRT ,-3:00 ,,10:00 ,18:30 ,No ,13:00 ,21:30 ,23.5629,46.6547,,
-Abu Dhabi Securities Exchange,ADX,United Arab Emirates,Abu Dhabi,0.83,,AST ,+3:00 ,,,,,,,24.47,54.37,,
-Dubai Financial Market,DFX,United Arab Emirates,Dubai,0.2,,AST ,+3:00 ,,,,,,,25.26,55.29,,
-Qatar Stock Exchange,QSE,Qatar,Doha,0.2,4,AST ,+3:00 ,,,,,,,25.28,51.52,,
+Stock exchange,MIC,Region,City,Market cap (USD tn),Monthly trade volume (USD bn),Time zone,Δ ,DST,Open hours (local time) Open, Open hours (local time) Close , Open hours (local time) Lunch  ,UTC(without DST) Open,UTC(without DST) Close,Coordinates latitude,Coordinates longitude,Benchmark Index,YTD (%),P/E Ratio,P/B Ratio,EPS (Est.),Market Note,Foundation date,Comment
+New York Stock Exchange ,XNYS, United States,New York City ,44.7,2685,EST/EDT ,−5:00 ,Mar–Nov,09:30 ,16:00 ,No,14:30,21:00,40.7069,-74.0113,S&P 500,+8.2%,25.3x,4.8x,$281.71,High valuations led by Tech.,,[4] 
+Nasdaq (US),XNYS, United States,New York City,42.2,2727,EST/EDT ,−5:00 ,na,09:30 ,16:00 ,11:30–13:00,14:30,21:00,40.7069,-74.0113,NASDAQ 100,+12.4%,31.5x,6.2x,$645.50,Strong corporate reform tailwinds.,,[5]
+Shanghai Stock Exchange,XSHG,China,Shanghai,9.72,1906,CST ,+8:00,na,09:30 ,15:00 ,11:30–13:00,01:30 ,07:00,31.2304,121.4737,SSE Composite,+2.1%,16.9x,1.5x,¥195.20,Heavy in energy/banking  value-tilted.,,[6] 
+Japan Exchange Group (Tokyo Stock Exchange),XJPX (TYO),Japan,Tokyo,7.95,652,JST,+9:00 ,na,09:00 ,15:00 ,11:30–12:30 ,00:00 ,06:00,35.6812,139.7775,Nikkei 225,+6.8%,22.6x,1.8x,"¥1,850",Volatile  focus on state stimulus.,,[7]
+Euronext,XAMS, Europe ,Amsterdam,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,52.3676,4.9041,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XBRU, Europe ,Brussels,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,50.8503,4.3517,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XMSM, Europe ,Dublin,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,,,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XLIS, Europe ,Lisbon,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,38.7223,9.1393,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XMIL, Europe ,Milan,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,45.4642,9.19,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XOSL, Europe ,Oslo,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,,,,+4.5%,15.2x,1.9x,€510.30,,,[8] 
+Euronext,XPAR , Europe ,Paris ,7.45,186,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,17:30 ,na,08:00 ,16:30,48.8694,2.3417,CAC 40,+4.5%,15.2x,1.9x,€510.30,Massive commodity-driven rally.,,[9] 
+Shenzhen Stock Exchange ,XSHE , China ,Shenzhen ,6.66,2888,CST ,+8:00 ,na,09:30 ,15:00 ,11:30–13:00 ,01:30 ,07:00,22.5431,114.0579,SZSE Component,+1.8%,19.5x,2.2x,¥485.20,,,[10] 
+Hong Kong Stock Exchange ,XHKG , Hong Kong,Hong Kong ,6.2,762,HKT ,+8:00 ,na,09:30 ,16:00 ,12:00–13:00 ,01:30 ,08:00,22.2844,114.1595,Hang Seng,-1.2%,14.3x,1.1x,"HK$1,805",Driven by luxury sector performance.,,[11] 
+Bombay Stock Exchange ,XBOM ,India,Mumbai ,5.25,501,IST ,+5:30 ,na,09:15 ,15:30 ,na,03:45 ,10:00,18.93,72.8335,SENSEX,+5.4%,21.8x,4.3x,"₹3,520",Trading below book value (undervalued).,,[12] 
+National Stock Exchange ,XNSE ,India,Mumbai ,5.32,294,IST ,+5:30 ,na,09:15 ,15:30 ,na,03:45 ,10:00,18.93,72.8335,NIFTY 50,+5.6%,21.6x,3.4x,"₹1,145",Resilient despite industrial costs.,,[13] 
+Toronto Stock Exchange,XTSE , Canada ,Toronto ,4.6,206,EST/EDT ,−5:00 ,Mar–Nov ,16:00 ,na,14:30 ,21:00,na,25.0375,121.5272,S&P/TSX Comp,+2.0%,16.4x,1.9x,"C$ 1,215",,,
+Taiwan Stock Exchange ,XTAI, Taiwan,Taipei ,4.13,222,NST (Taiwan) ,+8:00 ,na,13:30 ,01:00 ,05:30,na,na,43.6532,79.3832,TAIEX,+9.5%,20.2x,2.4x,"NT$ 1,480",,,
+London Stock Exchange,XLON ,United Kingdom,London ,4.1,219,GMT/BST ,+0:00 ,Mar–Oct ,08:00 ,16:30 ,08:00 ,16:30,na,51.5151,-0.0998,FTSE 100,+7.1%,14.4x,1.7x,£740.10,"High growth, high valuation.",,[14] 
+Korea Exchange,XKOS ,South Korea ,Seoul,3.7,204,KST ,+9:00 ,na,09:00 ,09:00 ,15:30 ,00:00 ,06:30,37.5665,126.978,KOSPI,+1.5%,25.7x,1.0x,"₩102,400",Influenced heavily by Oil/Aramco.,,
+Korea Exchange,XKOS ,South Korea ,Busan ,3.7,204,KST ,+9:00 ,na,09:00 ,09:00 ,15:30 ,00:00 ,06:30,35.1796,129.0756,,,,,,,,
+German Stock Exchange (Deutsche Börse AG),XFRA ,Germany ,Frankfurt ,3.15,77,CET/CEST ,+1:00 ,Mar–Oct ,09:00 ,08:00 (Eurex) 08:00 (floor) 09:00 (Xetra) , 22:00 (Eurex) 20:00 (floor) 17:30 (Xetra) ,07:00 ,21:00,50.1153,8.6779,DAX 40,+0.2%,20.1x,1.6x,€920.40,Defensive  heavy in Pharma/Food.,,
+Saudi Exchange ,XSAU , Saudi Arabia ,Riyadh ,2.55,32,AST ,+3:00 ,,10:00 ,15:00 ,07:00 ,12:00,na,24.6389,46.7172,TASI,+4.2%,17.7x,2.3x,645 SAR,Influenced heavily by Oil/Aramco.,,
+SIX Swiss Exchange ,XSWX ,  Switzerland ,Zürich ,1.97,54,CET/CEST ,+1:00 ,Mar–Oct ,08:00 ,17:30 ,07:00 ,16:30,na,47.3769,8.5417,SMI,+3.1%,17.8x,2.4x,CHF 620,"""Korea Discount"" persists.",,
+Australian Securities Exchange ,XASX , Australia ,Sydney ,1.89,91,AEST/AEDT ,+10:00 ,Oct–Apr ,10:00 ,16:00 ,00:00 ,06:00,na,33.8688,151.2093,ASX 200,+2.9%,16.5x,2.1x,A$455,Strong mining/banking dividends.,,
+Nasdaq Nordic and Baltic Exchanges ,XCSE, Europe ,Copenhagen,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,55.6761,12.5683,,,,,,,,
+Nasdaq Nordic and Baltic Exchanges ,XSTO, Europe ,Stockholm,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,59.3293,18.0686,OMXS30,+5.1%,18.4x,2.3x,kr 168.00,,,
+Nasdaq Nordic and Baltic Exchanges ,XHEL, Europe ,Helsinki,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,60.17,24.93,,,,,,,,
+Nasdaq Nordic and Baltic Exchanges ,XTAL, Europe ,Tallinn,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,59.43,24.75,,,,,,,,
+Nasdaq Nordic and Baltic Exchanges ,XRIS, Europe ,Riga,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,56.95,24.1,,,,,,,,
+Nasdaq Nordic and Baltic Exchanges ,XLIT, Europe ,Vilnius,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,54.7,25.25,,,,,,,,
+Nasdaq Nordic and Baltic Exchanges ,XICE , Europe ,Reykjavík,1.79,47,EET/EEST ,+2:00 ,Mar–Oct ,10:00 ,na,18:30 ,08:00 ,16:30,64.15,21.94,,,,,,,,
+Johannesburg Stock Exchange ,XJSE , South Africa ,Johannesburg ,1.15,60,SAST ,+2:00 ,,09:00 ,16:50 ,No ,07:00 ,14:50,26.2041,28.0473,JSE Top 40,~ +1.8%,12.6x,1.7x,,High mining and resource exposure.,,
+B3 (stock exchange) ,BVMF ,Brazil ,São Paulo ,1.01[15] ,30,BRT ,-3:00 ,,10:00 ,18:30 ,No ,13:00 ,21:30 ,23.5629,46.6547,Bovespa (IBOV),+16.6%,9.4x,1.5x,"R$ 19,850",,,
+Abu Dhabi Securities Exchange,ADX,United Arab Emirates,Abu Dhabi,0.83,,AST ,+3:00 ,,,,,,,24.47,54.37,ADX General,+0.6%,15.8x,2.1x,652 AED,,,
+Dubai Financial Market,DFX,United Arab Emirates,Dubai,0.2,,AST ,+3:00 ,,,,,,,25.26,55.29,DFMGI,~ +1.2%,10.4x,1.3x,,Driven by real estate and tourism.,,
+Qatar Stock Exchange,QSE,Qatar,Doha,0.2,4,AST ,+3:00 ,,,,,,,25.28,51.52,QE Index,+4.8%,12.5x,1.4x,895 QAR,,,
