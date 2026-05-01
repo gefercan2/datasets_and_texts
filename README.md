@@ -42,6 +42,8 @@ https://github.com/thundercomb/poetrydb#readme?ref=dr-pa&utm_medium=public-apis-
 https://api.artic.edu/docs/?ref=dr-pa&utm_medium=public-apis-website <br>
 https://collection.cooperhewitt.org/api?ref=dr-pa&utm_medium=public-apis-website <br>
 https://github.com/harvardartmuseums/api-docs?ref=dr-pa&utm_medium=public-apis-website <br>
+https://github.com/harvardartmuseums/api-docs?ref=dr-pa&utm_medium=public-apis-website <br>
+https://metmuseum.github.io/?ref=dr-pa&utm_medium=public-apis-website<br>
 
 refeence of work with the met database: <br>
 https://github.com/trevorfiez/The-Metropolitan-Museum-of-Art-Image-Downloader?tab=readme-ov-file 
