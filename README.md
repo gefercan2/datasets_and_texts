@@ -34,6 +34,15 @@ https://libguides.ucc.ie/DigitalArtsandHumanities/freewebresources <br>
 https://www.choice360.org/libtech-insight/ai-tools-for-academic-libraries-ai-programming-and-coding-tools/ <br>
 http://zenodo.org/records/15069064  and   https://mbzuai.ac.ae/news/what-llms-get-wrong-about-culture-and-how-to-fix-them-two-studies-from-naacl/ <br>
 
+also apis:<br>
+https://gutendex.com/?ref=dr-pa&utm_medium=public-apis-website <br>
+https://openlibrary.org/developers/api?ref=dr-pa&utm_medium=public-apis-website <br>
+https://www.penguinrandomhouse.biz/webservices/rest/?ref=dr-pa&utm_medium=public-apis-website <br>
+https://github.com/thundercomb/poetrydb#readme?ref=dr-pa&utm_medium=public-apis-website <br>
+https://api.artic.edu/docs/?ref=dr-pa&utm_medium=public-apis-website <br>
+https://collection.cooperhewitt.org/api?ref=dr-pa&utm_medium=public-apis-website <br>
+https://github.com/harvardartmuseums/api-docs?ref=dr-pa&utm_medium=public-apis-website <br>
+
 refeence of work with the met database: <br>
 https://github.com/trevorfiez/The-Metropolitan-Museum-of-Art-Image-Downloader?tab=readme-ov-file 
 
