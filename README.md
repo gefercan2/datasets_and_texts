@@ -35,6 +35,7 @@ https://www.choice360.org/libtech-insight/ai-tools-for-academic-libraries-ai-pro
 http://zenodo.org/records/15069064  and   https://mbzuai.ac.ae/news/what-llms-get-wrong-about-culture-and-how-to-fix-them-two-studies-from-naacl/ <br>
 
 also apis:<br>
+https://data.unesco.org/pages/home/ <br>
 https://gutendex.com/?ref=dr-pa&utm_medium=public-apis-website <br>
 https://openlibrary.org/developers/api?ref=dr-pa&utm_medium=public-apis-website <br>
 https://www.penguinrandomhouse.biz/webservices/rest/?ref=dr-pa&utm_medium=public-apis-website <br>
