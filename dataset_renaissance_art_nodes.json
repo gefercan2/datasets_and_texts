@@ -1,4 +1,4 @@
-  { name:"Veronese", 
+ [ { name:"Veronese", 
     type:"artist", 
     birth:"b. 1528", 
     death:"d. 1588", 
@@ -352,4 +352,5 @@
     link:"https://en.wikipedia.org/wiki/Duchy_of_Urbino" },
   { name: "PERUGIA",type: "city", birth: "", death: "(Umbria)", main discipline: "",
 		link:"https://en.wikipedia.org/wiki/Perugia",value: "2",}
+]
 
