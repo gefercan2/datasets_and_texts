@@ -352,4 +352,4 @@
     link:"https://en.wikipedia.org/wiki/Duchy_of_Urbino" },
   { name: "PERUGIA",type: "city", birth: "", death: "(Umbria)", main discipline: "",
 		link:"https://en.wikipedia.org/wiki/Perugia",value: "2",}
-];
+
