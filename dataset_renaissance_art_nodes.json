@@ -1,4 +1,5 @@
- [ { name:"Veronese", 
+ [ 
+	{ name:"Veronese", 
     type:"artist", 
     birth:"b. 1528", 
     death:"d. 1588", 
@@ -8,7 +9,8 @@
     image:"https://upload.wikimedia.org/wikipedia/commons/c/c8/Paolo_Veronese%2C_avtoportret.jpg",
     birthYear:1528, 
     deathYear:1588 },
-  { name:"Tintoretto", 
+	 
+	{ name:"Tintoretto", 
     type:"artist", 
     birth:"b. 1518", 
     death:"d. 1594", 
@@ -18,7 +20,8 @@
     image:"https://upload.wikimedia.org/wikipedia/commons/7/73/Tintoretto-selfport.jpg",
     birthYear:1518, 
     deathYear:1594 },
-  { name:"Jacopo Bassano", 
+	 
+  	{ name:"Jacopo Bassano", 
     type:"artist", 
     birth:"b. 1510", 
     death:"d. 1592", 
@@ -28,12 +31,16 @@
     image:"https://upload.wikimedia.org/wikipedia/commons/4/48/Jacopo_da_Ponte_012.jpg",
     birthYear:1510, 
     deathYear:1592 },
-  { name:"Andrea Palladio", type:"artist", birth:"b. 1508", death:"d. 1580", main discipline:"architect", value:"0.5",
+	 
+  	{ name:"Andrea Palladio", type:"artist", birth:"b. 1508", death:"d. 1580", main discipline:"architect", value:"0.5",
     link:"https://en.wikipedia.org/wiki/Andrea_Palladio",
     image:"https://upload.wikimedia.org/wikipedia/commons/e/e4/Andrea_Palladio2.jpeg",
     birthYear:1508, deathYear:1580 },
-  {  name: "Pinturicchio", type: "artist", birth: "b. 1454", death: "d. 1513",main discipline: "painter",link:"https://en.wikipedia.org/wiki/Pinturicchio",
- image:"https://upload.wikimedia.org/wikipedia/commons/7/7a/Pinturicchio_self.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", value: "0.5",birthYear:1454, deathYear:1513},
+	 
+  	{  name: "Pinturicchio", type: "artist", birth: "b. 1454", death: "d. 1513",main discipline: "painter",link:"https://en.wikipedia.org/wiki/Pinturicchio",
+ image:"https://upload.wikimedia.org/wikipedia/commons/7/7a/Pinturicchio_self.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", 
+		value: "0.5",birthYear:1454, deathYear:1513},
+	 
   {   name: "Antonio Pollaiuolo", type: "artist",birth: "b. 1429",death: "d. 1498",
 	  main discipline: "painter, sculptor", link:"https://en.wikipedia.org/wiki/Antonio_del_Pollaiuolo",image:"https://upload.wikimedia.org/wikipedia/commons/7/7a/San_pietro_in_vincoli%2C_monumento_ai_fratelli_del_pollaiolo%2C_di_luigi_capponi%2C_antonio_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", value: "0.5",birthYear:   1429, deathYear:   1498},
  {name: "Andrea Schiavone",
@@ -46,16 +53,23 @@
   value: "0.5",
   birthYear:   1510, 
   deathYear:   1563},
+	 
 	{name: "Parmigianino",
 		type: "artist",
 		birth: "b. 1503",death: "d. 1540", 
-		main discipline: "painter",link:"https://en.wikipedia.org/wiki/Parmigianino",image:"https://upload.wikimedia.org/wikipedia/commons/a/ab/Parmigianino_Selfportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", value: "0.5",birthYear:   1503, deathYear:   1531 },
-   {name: "Giotto di Bondone", type: "artist",birth: "b. 1267", 
+		main discipline: "painter",
+		link:"https://en.wikipedia.org/wiki/Parmigianino",
+		image:"https://upload.wikimedia.org/wikipedia/commons/a/ab/Parmigianino_Selfportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", value: "0.5",birthYear:   1503, deathYear:   1531 },
+  
+	 {name: "Giotto di Bondone", type: "artist",birth: "b. 1267", 
 	   death: "d. 1337",
-	   main discipline: "painter",link:"https://en.wikipedia.org/wiki/Giotto",
-                value: "0.5",image:"https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+	   main discipline: "painter",
+		 link:"https://en.wikipedia.org/wiki/Giotto",
+                value: "0.5",
+		 image:"https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
 		birthYear:   1267, deathYear:   1337
               },
+	 
  {name: "Lorenzo Lotto",type: "artist",
 	 birth: "b. 1480",death: "d. 1556",
                 main discipline: "painter",image:"",
@@ -64,15 +78,31 @@
 		birthYear:   1480, 
 		deathYear:   1556
               },
+	 
 		{ name: "Sebastiano del Piombo",type: "artist",birth: "b. 1485",death: "d. 1547", main discipline: "painter",link:"https://en.wikipedia.org/wiki/Sebastiano_del_Piombo",image:"https://upload.wikimedia.org/wikipedia/commons/6/6d/Self_portrait%2C_after_Sebastiano_del_Piombo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", value: "0.5",birthYear:   1485, deathYear:   1547
               },
- 		{name: "Signorelli",type: "artist",birth: "b. 1441",death: "d. 1523",main discipline: "painter",link:"https://en.wikipedia.org/wiki/Luca_Signorelli", image:"https://upload.wikimedia.org/wikipedia/commons/2/20/Signorelli%2C_Luca_-_selfportrait_alone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",value: "0.5",birthYear:   1441, deathYear:   1523
+ 		{name: "Signorelli",
+			type: "artist",birth: "b. 1441",death: "d. 1523",main discipline: "painter",link:"https://en.wikipedia.org/wiki/Luca_Signorelli", image:"https://upload.wikimedia.org/wikipedia/commons/2/20/Signorelli%2C_Luca_-_selfportrait_alone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",value: "0.5",birthYear:   1441, deathYear:   1523
               },
-              {name: "Raphael",type: "artist",birth: " b. 1483",death: "d. 1520 Rome", main discipline: "painter", value: "0.5", link: "https://en.wikipedia.org/wiki/Raphael",
-		image:"https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",birthYear:1483, deathYear:1520
+              {name: "Raphael",
+				  type: "artist",
+				  birth: " b. 1483",
+				  death: "d. 1520 Rome", 
+				  main discipline: "painter", 
+				  value: "0.5", 
+				  link: "https://en.wikipedia.org/wiki/Raphael",
+		image:"https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+				  birthYear:1483, 
+				  deathYear:1520
               },
-              {name: "Michelangelo", type: "artist", birth: "b. 1475", death: "d. 1564", main discipline: "sculptor", value: "0.5",
-		link: "https://en.wikipedia.org/wiki/Michelangelo",image:"https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",birthYear:   1475, deathYear:   1564
+              {name: "Michelangelo", 
+				  type: "artist", 
+				  birth: "b. 1475", 
+				  death: "d. 1564", 
+				  main discipline: "sculptor", 
+				  value: "0.5",
+		link: "https://en.wikipedia.org/wiki/Michelangelo",
+				  image:"https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",birthYear:   1475, deathYear:   1564
               },
               {name: "Lorenzo Ghiberti",type: "artist",birth: "b. 1378",death: "d. 1455",main discipline: "sculptor",link: "https://en.wikipedia.org/wiki/Lorenzo_Ghiberti",image:"https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghiberti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
                 value: "0.5",birthYear:   1378, deathYear:   1455
@@ -80,14 +110,19 @@
 		{name: "Giorgione",type: "artist",birth: "b. 1473-78",death: "d. 1510",main discipline: "painter", link: "https://en.wikipedia.org/wiki/Giorgione", image:"https://upload.wikimedia.org/wikipedia/commons/a/a2/Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
                 value: "0.5",birthYear:   1473, deathYear:   1510
               },
-              { name: "Leonardo",type: "artist", birth: " b. 1452 Vinci",
-				  death: " d. 1519 Loire ", main discipline: "painter",
-                link: "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",image:"https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+              { name: "Leonardo",
+				  type: "artist", 
+				  birth: " b. 1452 Vinci",
+				  death: " d. 1519 Loire ", 
+				  main discipline: "painter",
+                link: "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+				  image:"https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
                 value: "0.5",
 		birthYear:   1452, 
 		deathYear:   1519
               },
-              {name: "Perugino",type: "artist",birth: "b. 1446",death: "d. 1523",main discipline: "painter",
+              {name: "Perugino",
+				  type: "artist",birth: "b. 1446",death: "d. 1523",main discipline: "painter",
 		link:"https://en.wikipedia.org/wiki/Pietro_Perugino", image:"https://upload.wikimedia.org/wikipedia/commons/3/3b/Pietro_Perugino_031.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
                 value: "0.5",
 		birthYear:   1446, 
